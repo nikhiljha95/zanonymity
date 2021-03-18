@@ -23,9 +23,9 @@ class zanon_model:
     k : int
         k-anonymity target
     theta1 : float
-        attribute's popularity threshold
+        attribute's popularity threshold parameter
     theta2 : float
-        realization's popularity threshold
+        realization's popularity threshold parameter
     lambda0 : float
         the most popular attribute's exposing rate
     l : list
@@ -98,9 +98,9 @@ class zanon_model:
         k : int
             k-anonymity target
         theta1 : float
-            attribute's popularity threshold
+            attribute's popularity threshold parameter
         theta2 : float
-            realization's popularity threshold
+            realization's popularity threshold parameter
         lambda0 : float
             the most popular attribute's exposing rate
         l : list, optional

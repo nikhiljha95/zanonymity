@@ -15,4 +15,4 @@ Every quanitity in the previous list depends on the previous quantity. Whichever
 
 Other parameters are available to better understand the internal functioning of the model. Please refer to the class documentation.
 
-The `zanon_model.py` contains the z-anonymity class, while the file `zanonymity.ipynb` shows which types of information it is possible to extract from an instantiation of the model.
+The `zanon_model.py` contains the z-anonymity class, while the file `zanonymity.ipynb` shows which types of information it is possible to extract from an instantiation of the model. The `zanon_model_classes.py` contains the z-anonymity class designed to cope with two classes of users with different exposing rates.
