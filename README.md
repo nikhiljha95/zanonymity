@@ -1,5 +1,5 @@
 # *z*-anonymity
-This project contains the code used in the paper **_z_-anonymity: Zero-Delay Anonymization for Data Streams** currently under evaluation at IEEE Transactions on Knowledge and Data Engineering.
+This project contains the code used in the paper **_z_-anonymity: Zero-Delay Anonymization for Data Streams** currently under evaluation at ACM Performance Evaluation.
 
 *z*-anonymity is a privacy property defined in a data stream scenario, where incoming tuples *(t, u, a)* describe that at time *t*, a user *u* has exposed an attribute *a*. z-anonymity is satisfied when no z-private attributes are released in a past time period &Delta;*t*.
 
